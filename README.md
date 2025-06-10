@@ -96,7 +96,7 @@ I'm a passionate **Full Stack Developer** from Pakistan 🇵🇰, driven by the 
   <br/>
   <br/>
   
-  **"Code is poetry written in logic."** ✨
+  **"In every line of code lies infinite possibility."** ✨
   
   *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations!* 🚀
 </div>
