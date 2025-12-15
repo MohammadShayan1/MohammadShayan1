@@ -6,23 +6,29 @@
 
 ## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** from Pakistan 🇵🇰, driven by the love of creating innovative solutions and bringing ideas to life through code. Whether it's crafting beautiful user interfaces, building robust backend systems, or developing mobile applications, I'm always excited to tackle new challenges!
+I'm a **Final-year Telecommunication Engineering undergraduate** at NED University, Pakistan 🇵🇰, specializing in **IoT, Embedded Systems, and AI for Wireless Communications**. With a unique blend of hardware expertise and software development skills, I'm passionate about creating innovative solutions that bridge the digital and physical worlds.
 
-- 🔭 Currently working on **exciting full-stack projects**
-- 🌱 Always learning and exploring **new technologies**
-- 👯 Looking to collaborate on **open source projects**
-- 💬 Ask me about **Web Development, Mobile Apps, or UI/UX Design**
-- 📫 How to reach me: **[LinkedIn](https://linkedin.com/in/mohammad-shayan786)**
-- ⚡ Fun fact: **I love turning coffee into code!** ☕
+- 🎓 Pursuing B.E. in **Telecommunication Engineering** (Expected Graduation: Aug-Sep 2026)
+- 🏆 **TechWiz 5 IoT Competition Winner (2024)** & **TechWiz 6 2nd Runner-Up (2025)**
+- 🔬 Final Year Project: **SHARC** - Self-Healing Anti-Jamming Radio Communication using AI Cognitive Defense
+- 🌱 Certified in **Software Engineering (Aptech 2.0)** with expertise in embedded systems, AI, and web development
+- 💼 Leadership roles: **Manager Technical @ TE LINKS** | **Director Web Development @ SENTEC NED**
+- 💬 Ask me about **IoT, Embedded Systems, Wireless Communications, AI in Cybersecurity**
+- 📫 Reach me: **[LinkedIn](https://linkedin.com/in/mohammad-shayan786)**
+- 🌍 Languages: **English (Fluent), Urdu (Native)**
+- ⚡ Fun fact: **I've volunteered at international tech conferences and organized Esports events!** 🎮
 
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-03599C?style=for-the-badge&logo=c&logoColor=white)
+![Verilog](https://img.shields.io/badge/Verilog-2C2D72?style=for-the-badge&logo=v&logoColor=white)
 
 ### 🌐 Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -58,6 +64,13 @@ I'm a passionate **Full Stack Developer** from Pakistan 🇵🇰, driven by the 
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white)
 ![Chart.js](https://img.shields.io/badge/Chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)
 
+### ⚡ Hardware & IoT
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![STM32](https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white)
+![FPGA](https://img.shields.io/badge/FPGA-2C2D72?style=for-the-badge&logo=xilinx&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
+![Quartus](https://img.shields.io/badge/Quartus-0071C5?style=for-the-badge&logo=intel&logoColor=white)
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -68,6 +81,49 @@ I'm a passionate **Full Stack Developer** from Pakistan 🇵🇰, driven by the 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadshayan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
+
+## 🎓 Education
+
+**B.E. Telecommunication Engineering** | NED University of Engineering & Technology  
+📅 2022 – 2026 (Expected Graduation: Aug-Sep 2026)
+
+**Aptech Advanced Diploma in Software Engineering (Certified 2.0)**  
+📅 Sep 2022 – Sep 2025  
+*Specialized in Embedded Systems, Programming, AI, and Web Development*
+
+## 🏆 Achievements & Competitions
+
+- 🥇 **TechWiz 5 IoT Competition Winner** (2024)
+- 🥉 **TechWiz 6 IoT Competition 2nd Runner-Up** (2025)
+- 🏅 **TechWiz 4 Data Science Competition** – Top 6 Team (2023)
+- 🎖️ Multiple **Hackathons & Coding Competitions** – Certificates of Participation
+
+## 📜 Certifications
+
+- **Innovating with Google Cloud Artificial Intelligence** (Google Cloud Training)
+- **Introduction to Front-End Development** (Meta)
+- **AI & Deep Learning Concepts and Applications** (SimpliLearn)
+
+## 🚀 Featured Projects
+
+### SHARC – Self-Healing Anti-Jamming Radio Communication
+*Final Year Project (Ongoing)*  
+AI-powered cognitive defense system for wireless communications with anti-jamming capabilities
+
+### IoT-Based Office AC Control System
+*Internship Project*  
+ESP32-based automated climate control system with relay modules and remote monitoring
+
+### Web Development Portfolio
+Multiple volunteer websites for student organizations and events
+
+## 💼 Leadership & Experience
+
+- 🎯 **Manager Technical** – TE LINKS (Student Body)
+- 💻 **Director Web Development** – SENTEC NED Chapter (Student Body)
+- 🎮 **Co-Director** – NED Evolve '25 (Esports Event)
+- 🤝 **Volunteer** – Multiple International Tech Conferences
+- ❤️ **Community Service** – Old-age home visits & Iftar drives
 
 ## 🏆 GitHub Trophies
 <div align="center">
@@ -96,7 +152,7 @@ I'm a passionate **Full Stack Developer** from Pakistan 🇵🇰, driven by the 
   <br/>
   <br/>
   
-  **"In every line of code lies infinite possibility."** ✨
+  **"Bridging Hardware and Software to Build the Future of Connected Systems."** ✨
   
-  *Thanks for visiting my profile! Feel free to explore my repositories and don't hesitate to reach out for collaborations!* 🚀
+  *Thanks for visiting! Let's collaborate on IoT, AI, or anything tech – always open to innovative ideas!* 🚀
 </div>
