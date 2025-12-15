@@ -12,7 +12,7 @@ I'm a **Final-year Telecommunication Engineering undergraduate** at NED Universi
 - 🏆 **TechWiz 5 IoT Competition Winner (2024)** & **TechWiz 6 2nd Runner-Up (2025)**
 - 🔬 Final Year Project: **SHARC** - Self-Healing Anti-Jamming Radio Communication using AI Cognitive Defense
 - 🌱 Certified in **Software Engineering (Aptech 2.0)** with expertise in embedded systems, AI, and web development
-- 💼 Leadership roles: **Manager Technical @ TE LINKS** | **Director Web Development @ SENTEC NED**
+- 💼 Leadership roles: **Manager Technical @ TE LINKS** | **Mentor Web Development @ SENTEC NED**
 - 💬 Ask me about **IoT, Embedded Systems, Wireless Communications, AI in Cybersecurity**
 - 📫 Reach me: **[LinkedIn](https://linkedin.com/in/mohammad-shayan786)**
 - 🌍 Languages: **English (Fluent), Urdu (Native)**
@@ -79,7 +79,7 @@ I'm a **Final-year Telecommunication Engineering undergraduate** at NED Universi
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammadshayan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mohammadshayan1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🎓 Education
@@ -89,7 +89,7 @@ I'm a **Final-year Telecommunication Engineering undergraduate** at NED Universi
 
 **Aptech Advanced Diploma in Software Engineering (Certified 2.0)**  
 📅 Sep 2022 – Sep 2025  
-*Specialized in Embedded Systems, Programming, AI, and Web Development*
+*Specialized in Programming, AI, and Web Development*
 
 ## 🏆 Achievements & Competitions
 
@@ -120,20 +120,18 @@ Multiple volunteer websites for student organizations and events
 ## 💼 Leadership & Experience
 
 - 🎯 **Manager Technical** – TE LINKS (Student Body)
-- 💻 **Director Web Development** – SENTEC NED Chapter (Student Body)
+- 💻 **Mentor Web Development** – SENTEC NED Chapter (Student Body)
 - 🎮 **Co-Director** – NED Evolve '25 (Esports Event)
 - 🤝 **Volunteer** – Multiple International Tech Conferences
 - ❤️ **Community Service** – Old-age home visits & Iftar drives
 
 ## 🏆 GitHub Trophies
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammadshayan1&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammadshayan1&theme=tokyonight&no-frame=true&no-bg=true&column=7" alt="GitHub Trophies"/>
 </div>
 
-## 📈 Activity Graph
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammadshayan1&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
-</div>
+## 📈 Contribution Graph
+[![Mohammad Shayan's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=mohammadshayan1&theme=tokyo-night&hide_border=true)](https://github.com/mohammadshayan1)
 
 ## 🤝 Connect With Me
 
